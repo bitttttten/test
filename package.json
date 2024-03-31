@@ -1,0 +1,9 @@
+{
+  "name": "test",
+  "scripts": {
+    "start": "node index.mjs"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
